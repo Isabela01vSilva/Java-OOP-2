@@ -1,7 +1,6 @@
 # Java: Aplicando a Orientação a Objetos
 
-Este repositório contém o código e exercícios do curso **Java: aplicando a Orientação a Objetos** da trilha **Aprenda a programar em Java com Orientação a Objetos** da plataforma Alura.  
-Link do curso: [Java: aplicando a Orientação a Objetos](https://cursos.alura.com.br/course/java-aplicando-orientacao-objetos)
+Este repositório contém o código e exercícios do curso **[Java: aplicando a Orientação a Objetos](https://cursos.alura.com.br/course/java-aplicando-orientacao-objetos)** da trilha **Aprenda a programar em Java com Orientação a Objetos** da plataforma Alura.  
 
 ## Conteúdo do Curso
 
